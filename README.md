@@ -7,6 +7,7 @@
               SqliteManager.sharedManager.select()<br><br>
  [//  修改数据:](#)
               SqliteManager.sharedManager.update()<br><br>
+ [//  删除数据:](#)
               SqliteManager.sharedManager.delete()<br><br>
  [//  查询数据:](#)
               SqliteManager.sharedManager.selectIntoDic()<br><br>
